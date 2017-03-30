@@ -6,6 +6,8 @@
 
 # 文档
 * <a href="http://www.css88.com/doc/webpack2">webpack2中文文档</a>
+* <a href="https://eggjs.org/zh-cn/intro/">egg.js</a>
+
 # 一些文章
 * <a href="http://www.cnblogs.com/ihardcoder/p/5623411.html">hash与chunkhash区别</a>
 
