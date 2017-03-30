@@ -6,6 +6,7 @@
 
 # 文档
 * <a href="http://www.css88.com/doc/webpack2">webpack2中文文档</a>
+* <a href="https://doc.webpack-china.org/">webpack2中文网站</a>
 * <a href="https://eggjs.org/zh-cn/intro/">egg.js</a>
 
 # 一些文章
