@@ -14,6 +14,6 @@
 * <a href="http://www.cnblogs.com/ihardcoder/p/5623411.html">hash与chunkhash区别</a>
 
 # 资源网站
-
+* <a href="https://github.com/wangfupeng1988/wangEditor">wangEditor —— 轻量级web富文本框</a>
 # 招聘网站
 * <a href="https://cn.100offer.com">100offer</a>
