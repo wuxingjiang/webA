@@ -3,7 +3,7 @@
 * <a href="http://fex.baidu.com/weekly/" target="_blank">百度FEX</a>
 * <a href="http://zcfy.baomitu.com/" target="_blank">众成翻译</a>
 * <a href="http://www.feweekly.com/" target="_blank">前端周刊</a>
-* <a href="http://zcfy.cc/column">众成翻译</a>
+
 # 文档
 * <a href="http://www.css88.com/doc/webpack2" target="_blank">webpack2中文文档</a>
 * <a href="https://doc.webpack-china.org/" target="_blank">webpack2中文网站</a>
