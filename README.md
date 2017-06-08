@@ -17,3 +17,5 @@
 * <a href="https://github.com/wangfupeng1988/wangEditor" target="_blank">wangEditor —— 轻量级web富文本框</a>
 # 招聘网站
 * <a href="https://cn.100offer.com" target="_blank">100offer</a>
+# GIT资源
+* <a href="https://github.com/zloirock/core-js">core-js</a>
